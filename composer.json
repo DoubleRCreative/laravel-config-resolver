@@ -49,7 +49,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "DRC\\ConfigResolver\\ConfigResolverServiceProvider"
+                "DRC\\ConfigResolver\\Providers\\ConfigResolverServiceProvider"
             ]
         }
     },
